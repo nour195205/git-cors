@@ -1,2 +1,2 @@
 # git-cors
-course
+course  sxksk
